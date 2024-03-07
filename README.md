@@ -1,1 +1,1 @@
-# About-ME
+As a React Native developer with hands-on experience, I bring fresh insights and a passion for mobile app development to the table. My journey has been marked by a commitment to mastering the art of cross-platform app creation. I thrive on tackling challenges, delivering quality code, and collaborating effectively with teams. Let's connect to explore how I can contribute to your next mobile project.
